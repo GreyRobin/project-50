@@ -1,0 +1,46 @@
+
+    h1{
+        color:blue;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 800;
+    }
+
+.header{
+    background-color: rgb(28, 146, 146);
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+p,h2{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 700;
+}
+p,h3{
+    color: rgb(6, 88, 61);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 700;
+}
+body{
+    background-color: green;
+}
+.menu{
+    color: crimson;
+    font-weight: bold;
+}
